@@ -12,13 +12,6 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ],
-    "redirects": [
-      {
-        "source": "/info",
-        "destination": "https://info.faithfultweaks.com/",
-        "type": 301
-      }
     ]
   },
   "storage": {
@@ -34,5 +27,12 @@
     "ui": {
       "enabled": true
     }
+  },
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
   }
 }
