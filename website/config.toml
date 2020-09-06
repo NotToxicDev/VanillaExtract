@@ -1,6 +1,6 @@
-baseURL = "https://faithfultweaks.com/"
+baseURL = "https://vanilla-extract.web.app/"
 languageCode = "en-us"
-title = "Faithful Tweaks"
+title = "Vanilla Extract"
 publishDir = "../public"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
