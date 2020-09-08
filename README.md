@@ -2,9 +2,9 @@
 
 # Vanilla Extract
 <p>
-    <a href="https://github.com/FaithfulTweaks/FaithfulTweaks/actions"><img alt="Website Deploy" src="https://github.com/FaithfulTweaks/FaithfulTweaks/workflows/Website%20Deploy/badge.svg"></a>
-    <a href="https://github.com/FaithfulTweaks/FaithfulTweaks/actions"><img alt="Functions Deploy" src="https://github.com/FaithfulTweaks/FaithfulTweaks/workflows/Functions%20Deploy/badge.svg"></a>
-    <a href="https://github.com/FaithfulTweaks/FaithfulTweaks/actions"><img alt="Images Deploy" src="https://github.com/FaithfulTweaks/FaithfulTweaks/workflows/Images%20Deploy/badge.svg"></a>
+    <a href="https://github.com/VanillaExtract/VanillaExtract/actions"><img alt="Website Deploy" src="https://github.com/VanillaExtract/VanillaExtract/workflows/Website%20Deploy/badge.svg"></a>
+    <a href="https://github.com/VanillaExtract/VanillaExtract/actions"><img alt="Functions Deploy" src="https://github.com/VanillaExtract/VanillaExtract/workflows/Functions%20Deploy/badge.svg"></a>
+    <a href="https://github.com/VanillaExtract/VanillaExtract/actions"><img alt="Images Deploy" src="https://github.com/FaithfulTweaks/FaithfulTweaks/workflows/Images%20Deploy/badge.svg"></a>
     <a href="https://github.com/FaithfulTweaks/FaithfulTweaks/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/FaithfulTweaks/FaithfulTweaks"></a>
     <a href="https://github.com/FaithfulTweaks/FaithfulTweaks/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/FaithfulTweaks/FaithfulTweaks"></a>
     <a href="https://github.com/FaithfulTweaks/FaithfulTweaks/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/FaithfulTweaks/FaithfulTweaks"></a>
