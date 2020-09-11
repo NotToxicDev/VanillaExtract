@@ -11,5 +11,5 @@
     <a href="https://github.com/Vanilla-Extract/VanillaExtracts/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Vanilla-Extract/VanillaExtract"></a>
 </p>
 
-A group of people making Minecraft Resource Packs to make the already great Minecraft experience even better
+A group of people making Minecraft Resource Packs to make the already great Minecraft experience even better!
 
